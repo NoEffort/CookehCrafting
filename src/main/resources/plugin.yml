@@ -1,0 +1,8 @@
+name: CookehCrafting
+main: me.noeffort.cookehcrafting.CookehCrafting
+version: 1.0-SNAPSHOT
+description: Some description here
+author: NoEffort
+
+# How far back will this plugin work?
+api-version: '1.13'
